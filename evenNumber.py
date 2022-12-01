@@ -1,5 +1,5 @@
 '''
-Printing all Even Number
+Printing all Even Number To The Giving Limit
 '''
 i = 1
 j = int(input("Enter A Number:"))
